@@ -1,0 +1,14 @@
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\Networking.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\Networking.pdb
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\log4net.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\Model.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\Services.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\Model.pdb
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\Services.pdb
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\log4net.xml
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\obj\Debug\Networking.csproj.AssemblyReference.cache
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\obj\Debug\Networking.csproj.CoreCompileInputs.cache
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\obj\Debug\Networking.csproj.CopyComplete
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\obj\Debug\Networking.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\obj\Debug\Networking.pdb
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Networking\bin\Debug\Services.dll.config

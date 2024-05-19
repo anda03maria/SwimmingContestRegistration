@@ -1,0 +1,9 @@
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\bin\Debug\Model.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\bin\Debug\Model.pdb
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\bin\Debug\log4net.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\bin\Debug\log4net.xml
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\obj\Debug\Model.csproj.CopyComplete
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\obj\Debug\Model.dll
+D:\UBB\Anul 2\Semestrul2\MPP\ClientServerC_Sharp\Model\obj\Debug\Model.pdb
