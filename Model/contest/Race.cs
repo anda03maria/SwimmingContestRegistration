@@ -13,6 +13,10 @@ namespace SwimmingModel.contest
         {
         }
 
+        public Race()
+        {
+        }
+
         public Race(int id, int distance, SwimmingStyle style, DateTime date) : base(id)
         {
             Distance = distance;

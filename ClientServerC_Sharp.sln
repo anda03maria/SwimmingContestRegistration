@@ -12,6 +12,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Networking", "Networking\Networking.csproj", "{3EEA177E-EFDF-4C3F-9F3A-EEE51FD90C8A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClientRest", "ClientRest\ClientRest.csproj", "{9B667390-2ACC-47F0-82C4-A1B1F5011630}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -42,5 +44,9 @@ Global
 		{3EEA177E-EFDF-4C3F-9F3A-EEE51FD90C8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3EEA177E-EFDF-4C3F-9F3A-EEE51FD90C8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3EEA177E-EFDF-4C3F-9F3A-EEE51FD90C8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B667390-2ACC-47F0-82C4-A1B1F5011630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B667390-2ACC-47F0-82C4-A1B1F5011630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B667390-2ACC-47F0-82C4-A1B1F5011630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B667390-2ACC-47F0-82C4-A1B1F5011630}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
